@@ -32,7 +32,7 @@ The application is written in Allman style, with logic encapsulated in the `Solu
 
 ### Installation
 
-1. **Clone the repository** (replace with actual URL):
+1. **Clone the repository**:
 
    ```sh
    git clone https://github.com/HChristopherNaoyuki/property-price-java.git
