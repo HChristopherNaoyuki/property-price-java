@@ -87,9 +87,8 @@ Here’s a sample layout—please adjust based on your actual project organizati
 property-price-java/
 ├── src/
 │   └── Solution/
-│       └── Solution.java   # Contains the main application logic
-├── README.md               # (You are editing this file now)
-└── bin/                    # (Optional) output folder for compiled classes
+│       └── Solution.java
+└── README.md
 ```
 
 ## DISCLAIMER
